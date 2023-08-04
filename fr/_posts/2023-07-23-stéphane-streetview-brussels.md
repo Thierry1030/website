@@ -18,4 +18,4 @@ Nous avons [tweeté](https://twitter.com/osm_be/status/1680584420648968192) (et 
 * [BX1 (French)](https://bx1.be/categories/culture/un-google-street-view-pour-les-cyclistes/)
 * [L'Avenir (French)](https://www.lavenir.net/regions/bruxelles/2023/07/27/le-projet-dingue-de-stephane-de-greef-il-pedale-dans-toutes-les-rues-de-bruxelles-pour-creer-lalternative-cycliste-a-google-street-view-QHSBZDBPVRB23FDB5C4NINYPPU/)
 
-Feel inspired? Read more about our [camera grant project](https://openstreetmap.be/en/projects/streetlevelimagery.html) and apply for a camera.
+Vous vous sentez inspiré ? Lisez plus sur notre [projet de subvention d'appareils photo](https://openstreetmap.be/fr/projects/streetlevelimagery.html) et faites une demande d'appareil photo.
